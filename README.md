@@ -1,6 +1,5 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# nuxt__3d-tresjs-hello-world
+![browser_tIeYrDr02x](https://github.com/Selithrarion/nuxt__3d-tresjs-hello-world/assets/59411497/7f3ec2b1-5985-47d9-a24c-c87163ebc9ba)
 
 ## Setup
 
